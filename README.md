@@ -1,3 +1,21 @@
+<br clear="both">
+
+<img align="right" height="200" src="https://i.gifer.com/2GU.gif"  />
+
+###
+
+<h2 align="center">Hello World!!</h2>
+
+###
+
+<div align="center">
+  <img height="50" src="https://i.gifer.com/VAyR.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
 <h3 align="left">Hey there! 👋 <br>I'm Diana Monsalve, a software developer and total coffee addict. I'm passionate about coding and have a pretty serious vinyl collection going on. Oh, and I love to read too! 📚<br><br>I'm also a huge animal lover! 🐶🐱</h3>
 
 ###
@@ -90,9 +108,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
